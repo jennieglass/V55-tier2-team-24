@@ -42,7 +42,7 @@ coding!
 
 - Maria Nathalie Chejin (Shadow Scrum Master): [GitHub](https://github.com/nath8815) / [LinkedIn](http://linkedin.com/in/marianathaliechejin)
 
-- Teammate name #n: [GitHub](https://github.com/ghaccountname) / [LinkedIn](https://linkedin.com/in/liaccountname)
+- Jennie Glass: [GitHub](https://github.com/jennieglass) / [LinkedIn](https://www.linkedin.com/in/jennie-glass-design/)
 - Teammate name #n: [GitHub](https://github.com/ghaccountname) / [LinkedIn](https://linkedin.com/in/liaccountname)
 - Teammate name #n: [GitHub](https://github.com/ghaccountname) / [LinkedIn](https://linkedin.com/in/liaccountname)
 - Teammate name #n: [GitHub](https://github.com/ghaccountname) / [LinkedIn](https://linkedin.com/in/liaccountname)
